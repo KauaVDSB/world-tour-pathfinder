@@ -1,0 +1,14 @@
+# Binários e Compilação
+*.o
+*.obj
+*.exe
+*.out
+bin/
+build/
+
+# IDEs e Ferramentas de Sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+*.log
