@@ -2,9 +2,12 @@
 *.o
 *.obj
 *.exe
-*.out
 bin/
 build/
+turne
+
+# Scripts locais de ambiente
+powershell.bat
 
 # IDEs e Ferramentas de Sistema
 .vscode/
@@ -12,3 +15,7 @@ build/
 *.swp
 .DS_Store
 *.log
+
+# Exceção para arquivos de teste
+!data/entrada.in
+!data/saida.out
